@@ -5,9 +5,9 @@
 <p>Para saber mais <a href="https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-coders-2023">clique aqui</a></p>
 
 ## CONTEÚDO PROGRAMÁTICO DO CURSO DE FORMAÇÃO ENGENHARIA DE DADOS
-### MODULO - Lógica de Programação II (PY)
-### MODULO - Programação Orientada a Objetos (PY)
-### MODULO - Técnicas de Programação I (PY)
+### MODULO - <a href="https://github.com/mariliaruth/ADA_Santader-Coders-2023/tree/versao01/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20II%20(PY)%20">Lógica de Programação II (PY)</a>
+### MODULO - <a href="https://github.com/mariliaruth/ADA_Santader-Coders-2023/tree/versao01/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(PY)">Programação Orientada a Objetos (PY)</a>
+### MODULO - <a href="https://github.com/mariliaruth/ADA_Santader-Coders-2023/tree/versao01/Tecnicas_de_Programa%C3%A7%C3%A3o_I">Técnicas de Programação I (PY)</a>
 ### MODULO - Extração de Dados I
 ### MODULO - Analytics Engineering
 ### MODULO - Big Data
